@@ -11,3 +11,20 @@
 - There is no impact on `Sales` be connection with `Product Visibility, Rating, Weight and Outlet charactristics`.
 - Highest sales observed on `Fruits and Vegetables` from all type Outlets and Lowest sales observed on `Seafood`.
 - One extent Highest sales observed on `Snack Foods` from `Supermarket Type2`.
+<p align="center">
+  <img alt="Outlet Type vs Total Sales" src="images/Plot (1).png" width="47.5%" height="400" />
+  <img alt="Product vs Sales" src="images/Plot (3).png" width="47.5%" height="340" />
+</p>
+<p align="center">
+  <img alt="Sales vs Item Type" src="images/Plot (6).png" width="95%" height="400" />
+</p>
+<p align="center">
+  <img alt="Sales vs Item Type for each outlet type" src="images/Plot (5).png" width="95%" />
+</p>
+<p align="center">
+  <img alt="Sales vs Item Type for each outlet location type" src="images/Plot (2).png" width="95%" />
+</p>
+<p align="center">
+  <img alt="Percentage of sales by outlet type" src="images/Plot (4).png" width="95%" />
+</p>
+
